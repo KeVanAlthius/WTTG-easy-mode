@@ -1,5 +1,5 @@
 # WTTG-easy-mode
-Easy mod allows for you to be a pussy by displaying a notification when the killer(Breather)/Kidnapper are on the way.
+Easy mod allows for you to be a pussy by displaying a notification when the killer(Breather)/Kidnapper are on the way. Also easy mode disables hack looking for a way to enable hacks but make it so they are simple and not difficult.
 
 I DO NOT OWN ANY OF THE CODE THE CODE BELONGS TO REFLECT STUDIOS, I MADE EDITS TO THE ORIGINAL GAME CODE, IT IS ALL FOR FUN!
 

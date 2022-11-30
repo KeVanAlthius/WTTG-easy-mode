@@ -6,7 +6,7 @@ I DO NOT OWN ANY OF THE CODE THE CODE BELONGS TO REFLECT STUDIOS, I MADE EDITS T
 
 **Instructions:**
 
-1. Save the Assembly-CSharp.dll gamefil
+1. Save the Assembly-CSharp.dll gamefile
 2. right click on the "Welcome To The Game" on steam.
 3. Select Properties and go to "Open Game Files"
 4. In the WTTG/Managed folder there should be an already existing "Assembly-CSharp.dll".

@@ -12,5 +12,6 @@ I DO NOT OWN ANY OF THE CODE THE CODE BELONGS TO REFLECT STUDIOS, I MADE EDITS T
 4. In the WTTG/Managed folder there should be an already existing "Assembly-CSharp.dll".
 5. Delete that file and replace it with the one downloaded here.
 6. Enjoy!
+**DO NOT ACCEPT CALL FROM ADAM THIS WILL BUG YOUR GAME OUT DECLINE CALL**
 
 **Please leave feedback for me because I would like to update this for others to enjoy**
